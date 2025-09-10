@@ -1,2 +1,2 @@
 - [[1721. Swapping Nodes in a Linked List|Swapping Nodes in a Linked List]]
-- 
+- [[[128. Longest Consecutive Sequence|Longest Consec]]
