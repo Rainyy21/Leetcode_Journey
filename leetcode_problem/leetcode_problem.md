@@ -2,4 +2,5 @@
 - [[128. Longest Consecutive Sequence|Longest Consecutive Sequence]]
 - [[238. Product of Array Except Self|Product of Array Except Self]]
 - [[42. Trapping Rain Water|Trapping Rain Water]]
+- [[1672. Richest Customer Wealth|Richest Customer Wealth]]
 - 
