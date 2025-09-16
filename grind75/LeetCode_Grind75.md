@@ -1,3 +1,4 @@
 - [[110. Balance_Binary_Tree|Balance Binary Tree]]
 - [[278. First Bad Version|First Bad Version]]
+- [[704. Binary Search|Binary Search]]
 - 
