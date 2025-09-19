@@ -19,7 +19,7 @@ WHERE diffculity
 
 # [[leetcode_problem|random_problem]]
 ```dataview
-TABLE rows.file.link 
+TABLE rows.file.link AS "Problem"
 FROM "LeetCode_Github/leetcode_problem"
 group by diffculity
 WHERE diffculity
