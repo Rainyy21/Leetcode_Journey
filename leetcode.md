@@ -9,7 +9,7 @@ SORT diffculity
 ```
 
 ```dataview
-TABLE WITHOUT ID file.link AS diffculity
+TABLE WITHOUT ID file.link AS diffculity r
 FROM "LeetCode_Github/daily"
 group by diffculity
 
