@@ -1,6 +1,6 @@
 # [[LeetCode_Daily|Daily]]
 ```dataview
-table
+TABLE WITHOUT ID file.link AS 
 FROM "LeetCode_Github/daily"
 ```
 
