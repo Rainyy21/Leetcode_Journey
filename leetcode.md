@@ -8,7 +8,13 @@ SORT diffculity
 
 ```
 
+```dataview
+TABLE WITHOUT ID file.link AS diffculity
+FROM "LeetCode_Github/daily"
+group by diffculity
 
+
+```
 
 # [[LeetCode_Grind75|Grind 75]]
 
