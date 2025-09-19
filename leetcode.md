@@ -2,8 +2,8 @@
 ```dataview
 TABLE rows.file.link AS "Problem"
 FROM "LeetCode_Github/daily"
-group by diffculity
-WHERE diffculity
+group by diffculty
+WHERE diffculty
 
 
 ```
@@ -12,8 +12,8 @@ WHERE diffculity
 ```dataview
 TABLE rows.file.link AS "Problem" 
 FROM "LeetCode_Github/grind75"
-group by diffculity
-WHERE diffculity
+group by diffculty
+WHERE diffculty
 
 ```
 
@@ -21,7 +21,7 @@ WHERE diffculity
 ```dataview
 TABLE rows.file.link AS "Problem"
 FROM "LeetCode_Github/leetcode_problem"
-group by diffculity
-WHERE diffculity
+group by diffculty
+WHERE diffculty
 
 ```
