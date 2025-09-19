@@ -3,6 +3,8 @@
 ```dataview
 TABLE WITHOUT ID file.link AS Problem
 FROM "LeetCode_Github/daily"
+Group by diffculity
+
 
 ```
 
