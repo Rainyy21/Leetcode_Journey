@@ -3,6 +3,7 @@
 ```dataview
 TABLE WITHOUT ID file.link AS Problem
 FROM "LeetCode_Github/daily"
+
 ```
 
 # [[LeetCode_Grind75|Grind 75]]
