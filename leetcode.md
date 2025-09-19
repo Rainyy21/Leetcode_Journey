@@ -9,7 +9,7 @@ SORT diffculity
 ```
 
 ```dataview
-TABLE rows.
+TABLE rows.file.link 
 FROM "LeetCode_Github/daily"
 group by diffculity
 
@@ -24,6 +24,13 @@ FROM "LeetCode_Github/grind75"
 SORT diffculity
 ```
 
+```dataview
+TABLE rows.file.link 
+FROM "LeetCode_Github/grind75"
+group by diffculity
+
+
+```
 # [[leetcode_problem|random_problem]]
 
 ```dataview
@@ -32,3 +39,10 @@ FROM "LeetCode_Github/leetcode_problem"
 SORT diffculity
 ```
 
+```dataview
+TABLE rows.file.link 
+FROM "LeetCode_Github/leetcode_problem"
+group by diffculity
+
+
+```
