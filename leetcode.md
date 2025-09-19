@@ -13,5 +13,6 @@ FROM "LeetCode_Github/grind75"
 # [[leetcode_problem|random_problem]]
 ```dataview
 table
-FROM "LeetCode"
+FROM "LeetCode_Github/leetcode_problem"
 ```
+
