@@ -1,9 +1,9 @@
 # [[LeetCode_Daily|Daily]]
 
 ```dataview
-TABLE WITHOUT ID file.link AS Problem
+TABLE WITHOUT ID file.link AS Problem ,diffculity
 FROM "LeetCode_Github/daily"
-Group by diffculity
+SORT diffculity
 
 
 ```
@@ -11,7 +11,7 @@ Group by diffculity
 # [[LeetCode_Grind75|Grind 75]]
 
 ```dataview
-TABLE WITHOUT ID file.link AS problem
+TABLE WITHOUT ID file.link AS problem , diffculity
 FROM "LeetCode_Github/grind75"
 ```
 
