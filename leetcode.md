@@ -11,6 +11,7 @@ SORT diffculity
 ```dataview
 TABLE  rows.file.link 
 FROM "LeetCode_Github/daily"
+FLATTEN diffculity as P
 group by diffculity
 
 
