@@ -9,7 +9,7 @@ SORT diffculity
 ```
 
 ```dataview
-TABLE
+TABLE rows.file.link
 FROM "LeetCode_Github/daily"
 group by diffculity
 
