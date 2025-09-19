@@ -13,12 +13,14 @@ SORT diffculity
 ```dataview
 TABLE WITHOUT ID file.link AS problem , diffculity
 FROM "LeetCode_Github/grind75"
+SORT diffculity
 ```
 
 # [[leetcode_problem|random_problem]]
 
 ```dataview
-TABLE WITHOUT ID file.link AS Problem
+TABLE WITHOUT ID file.link AS Problem , diffculity
 FROM "LeetCode_Github/leetcode_problem"
+SORT diffculity
 ```
 
