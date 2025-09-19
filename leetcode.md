@@ -9,7 +9,7 @@ SORT diffculity
 ```
 
 ```dataview
-TABLE  customKey AS "Problem", count(rows.file.link) as "Problem"
+TABLE  rows.file.link 
 FROM "LeetCode_Github/daily"
 group by diffculity
 
