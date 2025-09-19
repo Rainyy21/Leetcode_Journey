@@ -1,7 +1,7 @@
 # [[LeetCode_Daily|Daily]]
 ```dataview
 table
-daily
+FROM "LeetCode_Github/daily"
 ```
 
 # [[LeetCode_Grind75|Grind 75]]
