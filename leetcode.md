@@ -1,18 +1,21 @@
 # [[LeetCode_Daily|Daily]]
+
 ```dataview
-TABLE WITHOUT ID file.link AS 
+TABLE WITHOUT ID file.link AS Problem
 FROM "LeetCode_Github/daily"
 ```
 
 # [[LeetCode_Grind75|Grind 75]]
+
 ```dataview
-table
+TABLE WITHOUT ID file.link AS Grind75
 FROM "LeetCode_Github/grind75"
 ```
 
 # [[leetcode_problem|random_problem]]
+
 ```dataview
-table
+TABLE WITHOUT ID file.link AS Problem
 FROM "LeetCode_Github/leetcode_problem"
 ```
 
