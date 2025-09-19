@@ -1,6 +1,7 @@
 # [[LeetCode_Daily|Daily]]
 ```dataview
 table
+daily
 ```
 
 # [[LeetCode_Grind75|Grind 75]]
