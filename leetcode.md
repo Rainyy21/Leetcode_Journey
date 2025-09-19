@@ -8,7 +8,7 @@ FROM "LeetCode_Github/daily"
 # [[LeetCode_Grind75|Grind 75]]
 
 ```dataview
-TABLE WITHOUT ID file.link AS Grind75
+TABLE WITHOUT ID file.link AS problem
 FROM "LeetCode_Github/grind75"
 ```
 
