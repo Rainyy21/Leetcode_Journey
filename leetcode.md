@@ -5,6 +5,7 @@
 TABLE rows.file.link 
 FROM "LeetCode_Github/daily"
 group by diffculity
+WHERE diffculity
 
 
 ```
@@ -16,7 +17,7 @@ group by diffculity
 TABLE rows.file.link 
 FROM "LeetCode_Github/grind75"
 group by diffculity
-
+WHERE diffculity
 
 ```
 # [[leetcode_problem|random_problem]]
@@ -26,6 +27,6 @@ group by diffculity
 TABLE rows.file.link 
 FROM "LeetCode_Github/leetcode_problem"
 group by diffculity
-
+WHERE diff
 
 ```
